@@ -1,0 +1,12 @@
+1. qnx brief history
+  1. qnx 来历 --wiki 
+  2. qnx应用范围
+2. qnx 特性优势
+3. 宏内核vs微内核 --模块化是核心
+4. 调度
+5. 通讯方式
+6. 图像框架
+7. display和spi配置
+8. qnx firmware固件
+9. 量产实践 --启动相关，qnx启动时序
+10. 量产实践 --qnx性能分析工具
