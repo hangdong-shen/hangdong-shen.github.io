@@ -1,0 +1,36 @@
+---
+layout:     post
+title:      "浅谈车用操作系统QNX"
+subtitle:   " \"architect \""
+date:       2025-06-06 16:27:45 
+author:     "Hangdong"
+header-img: "img/post-sample-image.jpg"
+catalog: true
+tags:
+    - 工作总结
+---
+
+# 历史 #
+## QNX来历 ##
+https://en.wikipedia.org/wiki/QNX
+2个创始人
+## 操作系统的发展史 ##
+https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg
+操作系统兴起的潮流
+
+# QNX优势和应用范围 #
+## 应用范围
+## 优势
+## 3个设计目标：微内核架构，进程间通信，内核的网络分布
+### posix API-重要性
+### 宏内核vs微内核 --模块化是核心
+### 任务调度
+### 进程间通讯方式
+### 图形框架
+### 声音框架
+## 实践
+### 驱动开发
+### display和spi配置
+### firmware固件 组成
+### 量产实践 --启动相关，qnx启动时序
+### 量产实践 --qnx性能分析工具
