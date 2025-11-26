@@ -21,3 +21,4 @@ R22-11
 R22-11
 3	DDS-RPC v1.0-17-04-01.pdf
 V1.0
+利用fastrtpsgen工具将IDL生成序列化实现代码后
